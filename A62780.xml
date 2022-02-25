@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's Most Excellent Majesty, together with the Honourable Lords and Commons assembled in Parliament the husbandman's advocate.</title>
+            <author>Husbandman's advocate.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62780</idno>
+            <idno type="STC">Wing T1557</idno>
+            <idno type="STC">ESTC R16806</idno>
+            <idno type="EEBO-CITATION">13153632</idno>
+            <idno type="OCLC">ocm 13153632</idno>
+            <idno type="VID">98142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 753:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's Most Excellent Majesty, together with the Honourable Lords and Commons assembled in Parliament the husbandman's advocate.</title>
+                  <author>Husbandman's advocate.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: The Husbandman's Advocate.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Economic policy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98142:1"/>
+            <head>TO THE King's Moſt Excellent Majeſty; Together with the Honourable <hi>Lords</hi> and <hi>Commons</hi> Aſſembled in Parliament: <hi>The Husbandman's Advocate.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Excellent <hi>CAESAR,</hi> AND Moſt Honourable and Renowned Senators of <hi>England,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Nder God, you have ſaved Your Selves and Your Country; and as many of us as have learn'd to diſtinguiſh between the True and the Living God, and thoſe falſe Deities which grow in our Woods and our Quarries, we return you our due and eter<g ref="char:EOLhyphen"/>nal Thanks. Under God, you have ſecur'd us from <hi>Popery</hi> and <hi>Slavery;</hi> Secure us but once more from <hi>Poverty,</hi> and your Work is done. Preſent His Majeſty as Long and as Much as your Wiſdom ſhall think ſit, our <hi>Pur<g ref="char:EOLhyphen"/>ſes</hi> are open, and our <hi>Hearts</hi> are ſo too: Only permit the <hi>Honeſt <hi>Husbandman</hi>'s <hi>Advocate</hi>
+               </hi> (like a <hi>Publick Mercury</hi>) to point out the way how to obviate the Inconveniencies of too much Plenty. This Paper humbly preſents,</p>
+            <p>That the Price of Land, and the Product of it, is now ſo very low, is the common Grievance and Complaint; the Speculation whereof is very nice, and ſtrange, whenas Plenty ſhall be accounted a misfortune, and full Barns an incon<g ref="char:EOLhyphen"/>venience. They that look into the Cauſes, ſome lay it upon the Intereſt of Money, ſome upon the paucity of our Inha<g ref="char:EOLhyphen"/>bitants,
+<pb n="2" facs="tcp:98142:2"/>occaſion'd by War and Plague, and ſo many Foreign Plantations and Colonies; others upon the extraordinary Improvement of Husbandry, and breaking up ſo many Parks and Chaces, and dreining of Fens; and they that ſay we ſpend too much Wine and exotick Liquors, beſides the dry Drunkenneſs of Tobacco, do think they are not al<g ref="char:EOLhyphen"/>together miſtaken; not to mention the too good Opinion of the Manufactures of Strangers, and too little Kindneſs for our own. Whether theſe, or any, or all of theſe, do con<g ref="char:EOLhyphen"/>tribute to this Epidemick Evil, is not now the Subject of this preſent Paper: but that ſuch a miſchief there is gradu<g ref="char:EOLhyphen"/>ally crept in upon us, and, like a ſly Hectick Feaver, hath ſeized upon the very Vitals, and grown almoſt paſt recove<g ref="char:EOLhyphen"/>ry before diſcern'd.</p>
+            <p>That the Soil we tread upon, is not ſhrunk in its Dimen<g ref="char:EOLhyphen"/>ſions, but in its ſubſtantial Value and Reputation, is too well known, eſpecially to the unfortunate Seller, and made uſe of by the indigent and crafty Tenant, who either demands deep Abatements, or elſe threatens to throw up your Lands. The Country man tells us, and we ſee it with our Eyes, How he neither ſpares his Pains nor Sweat, en<g ref="char:EOLhyphen"/>dures the Cold and Heat of both Seaſons; contents himſelf with his Country-fare and Ruſſet: The Dews of Heaven fall upon him, and his Fields do laugh and ſing with Plenty; and yet for all this, when he caſts up his Account at the years end, it betides him alike with the Prodigal and the Slothful; he looks into his hand, and there is nothing; and the cauſe of all is, That the Fruits of his Ground and Labours afford no Price, no Profit proportionable to his Rent and Charges, and to what he might juſtly expect as a Reward of his Induſtry: From whence how long and how ſad a Chain of Miſeries muſt inevitably enſue, we need nei<g ref="char:EOLhyphen"/>ther Prophet nor Diviner to inform us.</p>
+            <p>Many honeſt <hi>Eſſays</hi> indeed, and ingenious <hi>Idea's,</hi> how to obviate this General Poverty, have come out of late;
+<pb n="3" facs="tcp:98142:2"/>but, alas! with ſo little ſucceſs, becauſe they are either too ſhort, or too narrow, or elſe attended with other Inconve<g ref="char:EOLhyphen"/>niencies as obnoxious almoſt as thoſe they pretend to re<g ref="char:EOLhyphen"/>move: Now then, to make haſte to the Mark we aim at, <hi>This New Evil is curable by the Royal Hand.</hi>
+            </p>
+            <p>If it would pleaſe the Auguſt Government of <hi>England</hi> to deal with the Fruits of the Earth, as the King doth with Men and Metals; both which, tho' of mean Extraction, he advances many times to Honour and Reputation, meerly upon the Account of his Sovereignty: The One he advan<g ref="char:EOLhyphen"/>ceth to Dignities, and Places of the greateſt Truſt; and the Other he enobles with his own Royal Effigies; and as an Inſtrument of all Commerce and Traffick, he makes it countervail whatever the World produces. If the Govern<g ref="char:EOLhyphen"/>ment would be pleaſed to advance the Price of our own Native Corn, the buſineſs would be done in a moment, and all things reduc'd to the moſt flouriſhing Condition that either We or our Forefathers were wont to glory of. If Wheat might not be ſold under Two and thirty Shillings a Quarter, nor Barley under eighteen, immediately our Lands, Farms, Farmers, Landlords, Noblemen, and ſo to the upmoſt Rounds of all Orders, the King himſelf, would be by one Fourth-part at leaſt Richer than now they are.</p>
+            <p>And to prevent all Objection, let the Nation be caſt in<g ref="char:EOLhyphen"/>to Three Ranks of Men; that is to ſay, The <hi>Noble,</hi> the <hi>Middle,</hi> and the <hi>Loweſt</hi> ſort: No man can ſuppoſe, that thoſe of the higheſt Order can diſlike the Deſign, but rather infinitely deſire and abet it, as being all Landlords; As for the Middle ſort, moſt of them are Farmers themſelves, or ſuch as have a great dependance upon them: ſo that when that day comes, they will doubtleſs keep it as a Jubile to all Generations: And for the Loweſt, they are ſuch by Age and Infirmity, or ſome other unſeen Misfortune; and for theſe, the Laws and Chriſtian Charity hath provided: But for the Lazy and the Spendthrift, their Objections will beſt be anſwered at the Houſe of Correction.</p>
+            <pb n="4" facs="tcp:98142:3"/>
+            <p>Now, if any moroſe man ſhall haſtily cry out, That this Deſign is not practicable, becauſe without a Precedent, and ſo with one froward Negative be their Own and their Countreys Enemy ſo far; let them know they are miſtaken, as not underſtanding the True Nature and Power of Sove<g ref="char:EOLhyphen"/>reignty. What will they ſay, when they hear or read, That the <hi>Roman</hi> Senate, to eaſe the publick Neceſſity, by a De<g ref="char:EOLhyphen"/>cree, made the Half-pound of Copper as much worth as the Pound; and a while after, the Quarter, and at laſt the Ounce, was valued as high as the Pound was at the firſt; and this applauded and conſented to by the Tribunes? What ſhall we ſay of the <hi>Perſian</hi> Sophy, who by virtue of his Sove<g ref="char:EOLhyphen"/>reignty, annually ſets the Price upon his Pearl, being the product, not of a <hi>Whale,</hi> or of a <hi>Leviathan;</hi> but bred and born in the Belly and Cottage of an <hi>Oiſter?</hi> Can the <hi>Chi<g ref="char:EOLhyphen"/>neſe</hi> ſo mightily magnify his <hi>Thee,</hi> or the <hi>Japonian</hi> his <hi>Cha,</hi> of ſhrubby off-ſpring; the latter of which, if <hi>Tulpius</hi> was not miſinformed, hath been ſold for a Hundred pounds the pound? Who knows not how great an eſtimate the <hi>French</hi> King puts upon his Salt-pits, and how much his Lillies did once flouriſh upon it, even to a fault? Do we not ſee Stones and Shells made dayly the Ornament and Companion of Princes, not for any intrinſick value of their own; but only by the Indulgence of our Fancies, <hi>Natura Lapides fe<g ref="char:EOLhyphen"/>cit, Opinio Gemmas?</hi> Shall ſuch things as theſe, made more for Delight than Neceſſity, and which the World could ſpare, Salt only excepted; Shall ſuch little gay things weigh down our Gold and Silver, and ſit ſo high in our opinions; And ſhall Bread, which is the ſtaff of our lives, and the hap<g ref="char:EOLhyphen"/>py product of our Fields, be ſo generally undervalued? Shall Bread, which is obtained every year by the indefatigable In<g ref="char:EOLhyphen"/>duſtry and Sweat (it may be) of Millions of our people? Shall Bread, which indeed this year lies under the Clods, but the next runs through all our Veins, and is turned into our very ſelves? Shall Bread, which we dayly pray for
+<pb n="5" facs="tcp:98142:3"/>twice, and ſometimes thrice in an Hour, before we have it, and when enjoyed, ſhall we put ſo mean a price upon it, only becauſe Heaven is pleaſed to give it us with both hands? Certainly, beſides the impolicy of it, there ſeems to be in<g ref="char:EOLhyphen"/>gratitude and irreligion in the Caſe. Theſe few things therefore are humbly propounded to our Wiſe and Renown<g ref="char:EOLhyphen"/>ed Superiors.</p>
+            <p n="1">1. Let it be conſider'd what was truly ſaid of old, <hi>Res quaelibet tantum valet quantum vendi poteſt,</hi> thô the uſe and goodneſs of many things are known by a Mark or Sig<g ref="char:EOLhyphen"/>nature impreſs'd upon them by Nature; yet nothing is born or produced with its price engraven upon it, but is left to the determination of Mankind, to whoſe delight and ne<g ref="char:EOLhyphen"/>ceſſity they are all ſubſervient. Were all <hi>England</hi> ſet to Sale (which God forbid) what meaſures would the Pur<g ref="char:EOLhyphen"/>chaſer take, before he would ſtrike the Bargain? Doubtleſs he would inquire into the fertility of the Soil, the nature of the Product; but moſt of all, what profit he could make of it. Thô the Globe were never ſo rich, and the growth of it never ſo good, yet profit ſtill is the Pole-ſtar he ſteers by, when he knows that a good Market is that which bleſſes all the Territory round about it. If all the Corn of <hi>England</hi> be cheap, the Land that bore it will be ſo too; and then what ſhall we think of thoſe Landlords, but as Men con<g ref="char:EOLhyphen"/>temptible and creſt-fallen, when we know that two lean Premiſes can never make a fat Concluſion?</p>
+            <p n="2">2. Let <hi>England</hi> be conſider'd as one great Farm, whoſe main concernment lies in Tillage, which will manifeſtly appear; 1ſt, Becauſe all the Paſture and Marſh lands, all the Heath, and Wood lands, bear no proportion to the Arable Land of <hi>England.</hi> And 2dly, becauſe Husbandry employs more Hands than any Calling whatſoever, and it may be as many as all the Callings in <hi>England</hi> put together. Now it is but reaſonable that that which is the greater part
+<pb n="6" facs="tcp:98142:4"/>of the Country, and which keeps the greater part of the Nation employed, ſhould be kept up in its full value and reputation. From hence it will eaſily appear, how great an eſteem we ought to have of the Husbandmen of <hi>England;</hi> the rather, when we call to mind, how that among the <hi>Egyptians</hi> of old, it was accounted a capital Crime to kill a Plowing Ox; and the reaſon is given, becauſe he is <hi>Socius Coloni,</hi> the Husbandman's Companion in the Culture of the Earth. According to the teſtimony of the Ancients, <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was always eſteemed a rich Store-houſe and Treaſury of Corn: <hi>Zozimus</hi> calls it, <hi>Occidentalis Imperii quaſi horre<g ref="char:EOLhyphen"/>um &amp; Cellam penuariam,</hi> The Granary of the Weſtern-Em<g ref="char:EOLhyphen"/>pire, and whence Eight hundred Ship loads of Corn were annually tranſported to <hi>Germany,</hi> to nouriſh the Frontier-Soldiers; and long before that, in the Judgment of <hi>Orpheus,</hi> it was eſteemed for its fertility of all ſorts of Grain, the proper Seat and Manſion of <hi>Ceres</hi> her ſelf. And if ſo many Hundred years ago, this Iſland was ſo famous for its plenty and fruitfulneſs, What may we now think of it, when the Art of Husbandry is ſo much emproved, and ſo many Woods and places of pleaſure and divertiſement removed to give place to the Plow? Now after all this, that ſo much Art, and ſo many Experiments have ſucceſsfully been made, it will be an infinite diſcouragement to the moſt induſtri<g ref="char:EOLhyphen"/>ous, and far more numerous part of the Nation, if ſome proportionable reward and price might not be allowed in ſo great a concernment, in which ſo much Art, Coſt, La<g ref="char:EOLhyphen"/>bour and Neceſſity, do all joyntly conſpire.</p>
+            <p n="3">3. Might this Propoſal be accepted, and effectually pro<g ref="char:EOLhyphen"/>ſecuted, it would undoubtedly prevent one great Miſchief, which if common report be true, is practiſed, eſpecially in the City of <hi>London,</hi> which is, that Brewers, Bakers, and others, do combine together, concerning what Price they pleaſe; ſo that when the honeſt Countrey-man hath brought up his Corn to the City, the Market immediately falls upon
+<pb n="7" facs="tcp:98142:4"/>him, who partly through Neceſſity, and partly for the great Charge and Trouble of carrying it back again, he is forced to ſell it at what Price ſo ever they pleaſe to give him; nay, many times, at a lower Rate than he might have had at home among his Neighbours. Whence it is, That a few men in Cities and Towns, are daily ſeen to grow abundantly Rich; and in the mean time, by ſuch il<g ref="char:EOLhyphen"/>legal Combinations, multitudes of men in all the Counties of <hi>England,</hi> grow moſt miſerably poor. Certainly great pity it is, to ſee a few men, that live in ſoft eaſe and delica<g ref="char:EOLhyphen"/>cy, by a few crafty Tricks, to acquire vaſt Eſtates in a few years, whilſt Thouſands of honeſt and working men, who perhaps after 40 or 50 years hard Labour and Care, do ma<g ref="char:EOLhyphen"/>ny times wiſh for a Grave, becauſe they are in danger of a Priſon.</p>
+            <p n="4">4. If it were poſſible that the Opinion of every individu<g ref="char:EOLhyphen"/>al Man of the Nation, could be taken, it is very probable, that a hundred would be in favour of this deſign, for one that ſhould appear againſt it; becauſe all that have Land, and uſe Land, would be for it; moſt of the Traders and Shop keepers would be no leſs, as having Commerce with both thoſe, as eaſily foreſeeing how their Trade would quicken upon it; ſo that of neceſſity the Diſſenters muſt doubtleſs be infinitely far leſs in Number and Quality, than the former. Now then, Whether it be better Policy, and more of Juſtice, to gratifie the moſt and beſt part of the Nation, than the feweſt and meaneſt, will eaſily be determi<g ref="char:EOLhyphen"/>ned.</p>
+            <p n="5">5. The Courage and Fortitude of a Nation, uſually bears proportion with the Wealth of it; the Poor and the Slave are not ſenſible of the ſhame of Cowardice; and our wiſe <hi>Rawleigh</hi> tells us, The Body of our Victorious Armies was made up of the free Yeomen of <hi>England,</hi> and their Sons: We are a Nation that have been, and ſtill are happy, even to envy, ſo long as Plenty and Wealth, like <hi>Caſtor</hi> and <hi>Pollux,</hi> ſhall be
+<pb n="8" facs="tcp:98142:5" rendition="simple:additions"/>undivided: We are not like the <hi>Nomades</hi> of old, who were contented with Skins and Mares-milk; but a Nation ranged into ſeveral Orders and Scales of men. Honour muſt be ſup<g ref="char:EOLhyphen"/>ported by large Fortunes: And our Annals tell us what great things our Anceſtors have done in the World, to whoſe Me<g ref="char:EOLhyphen"/>mory we are indebted to do the ſame, when occaſions are offered; and all this preſuppoſes a proportion of Wealth, which is impoſſible, unleſs the Credit of Land be main<g ref="char:EOLhyphen"/>tain'd, which is our common Nurſe, as well as Mother, and by which the King Himſelf is ſupplied.</p>
+            <p>Laſt of all, Such an Expedient as this, will retrieve the old and famous Hoſpitality of <hi>England;</hi> the Nobles, Gen<g ref="char:EOLhyphen"/>try, Farmers, and Tradeſmen, with the ingenious Artifi<g ref="char:EOLhyphen"/>cers, by a moſt happy and concatenated Intereſt, like the great Intelligences, will keep this our <hi>Engliſh</hi> Orb in a moſt Natural and Thriving Motion, when Money, like the health<g ref="char:EOLhyphen"/>ful Blood in our Veins, ſhall ſtill circulate by a juſt and hap<g ref="char:EOLhyphen"/>py Diſtribution. The Landlord ſhall be hoſpitable, becauſe his Tenant is ſolvent; and the Tenant will be ſo, becauſe his Landlord is Noble, and Bountiful to his Neighbours; City and Country ſhall friendilly conſpire by mutual Com<g ref="char:EOLhyphen"/>merce, and the whole Nation with one joint Acclamation, ſhall Cry out, <hi>God and the King: God,</hi> that gives the Crop, and the <hi>King</hi> the Price.</p>
+            <p>
+               <hi>God ſave the King and Parliament of</hi> England.</p>
+            <closer>
+               <hi>So Prays,</hi>
+               <signed>
+                  <hi>The Husbandman</hi>'s <hi>Advocate.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license_to_print">
+            <p>LICENS'D <hi>April</hi> 5. 1690. J. F.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXC.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
